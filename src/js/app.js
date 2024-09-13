@@ -50,16 +50,16 @@ const dropdownContent = document.querySelector('.dropdown-content');
 // Function to initialize the dropdown menu
 function initializeDropdown() {
   // List of languages to populate the dropdown, excluding the default
-  const languages = ["Portuguese", "Italian"];
+  const languages = ['Portuguese', 'Italian'];
 
   // Set the default language
-  languageTitle.textContent = "Spanish";
+  languageTitle.textContent = 'Spanish';
 
   // Populate the dropdown menu
   dropdownContent.innerHTML = ''; // Clear any existing items
   languages.forEach(language => {
     const item = document.createElement('a');
-    item.href = "#";
+    item.href = '#';
     item.setAttribute('data-language', language);
     item.textContent = language;
     dropdownContent.appendChild(item);
@@ -80,7 +80,7 @@ function handleDropdownClick(event) {
   loadWordsFromFile(`txt/${selectedLanguage}/articles.txt`);
 
   const newDropdownItem = document.createElement('a');
-  newDropdownItem.href = "#";
+  newDropdownItem.href = '#';
   newDropdownItem.setAttribute('data-language', currentLanguage);
   newDropdownItem.textContent = currentLanguage;
 
