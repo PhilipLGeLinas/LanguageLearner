@@ -50,7 +50,7 @@ const dropdownContent = document.querySelector('.dropdown-content');
 // Function to initialize the dropdown menu
 function initializeDropdown() {
   // List of languages to populate the dropdown, excluding the default
-  const languages = ['Portuguese', 'Italian'];
+  const languages = ['Portuguese', 'Italian', 'French', 'Japanese'];
 
   // Set the default language
   languageTitle.textContent = 'Spanish';
