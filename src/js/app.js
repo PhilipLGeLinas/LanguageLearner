@@ -1,7 +1,7 @@
 // Function to load and display the cards from a given file
 function loadWordsFromFile(filename) {
   // Fetch and parse the txt file
-  fetch("txt/" + filename)
+  fetch('txt/' + filename)
     .then(response => response.text())
     .then(data => {
       const lines = data.trim().split('\n'); // Split into lines
