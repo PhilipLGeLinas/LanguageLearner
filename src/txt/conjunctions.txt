@@ -1,0 +1,21 @@
+and,y
+but,pero
+or,o
+nor,ni
+for,porque
+yet,pero
+so,así que
+because,porque
+although,aunque
+if,si
+unless,a menos que
+while,mientras
+whereas,mientras que
+since,ya que
+as,como
+until,hasta que
+after,después de que
+before,antes de que
+when,cuando
+where,donde
+whether,si

@@ -1,0 +1,38 @@
+in,en
+on,sobre/en
+at,en
+under,debajo de
+over,sobre
+between,entre
+among,entre
+behind,detrás de
+in front of,delante de
+beside,al lado de
+near,cerca de
+far from,lejos de
+above,encima de
+below,debajo de
+inside,dentro de
+outside,fuera de
+with,con
+without,sin
+about,sobre/acerca de
+for,para
+to,a
+from,de
+of,de
+by,por
+underneath,debajo de
+between,entre
+around,alrededor de
+through,a través de
+across,a través de
+toward,hacia
+against,contra
+during,durante
+until,hasta
+since,desde
+after,después de
+before,antes de
+within,dentro de
+among,entre

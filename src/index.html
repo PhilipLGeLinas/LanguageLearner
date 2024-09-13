@@ -26,47 +26,30 @@
 
   <!-- Navigation Bar -->
   <nav>
-    <ul class="nav-links">
-      <li><a href="#">Nouns</a></li>
-      <li><a href="#">Pronouns</a></li>
-      <li><a href="#">Verbs</a></li>
-      <li><a href="#">Adverbs</a></li>
-      <li><a href="#">Adjectives</a></li>
-      <li><a href="#">Prepositions</a></li>
-      <li><a href="#">Conjunctions</a></li>
-      <li><a href="#">Interjections</a></li>
-      <li><a href="#">Articles</a></li>
-    </ul>
+    <div class="nav-container">
+      <h2 class="logo">Language Learner</h2>
+      <div class="menu-toggle" id="mobile-menu">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+      </div>
+      <ul class="nav-links" id="nav-links">
+        <li><a href="#" data-file="articles.txt">Articles</a></li>
+        <li><a href="#" data-file="nouns.txt">Nouns</a></li>
+        <li><a href="#" data-file="pronouns.txt">Pronouns</a></li>
+        <li><a href="#" data-file="verbs.txt">Verbs</a></li>
+        <li><a href="#" data-file="adverbs.txt">Adverbs</a></li>
+        <li><a href="#" data-file="adjectives.txt">Adjectives</a></li>
+        <li><a href="#" data-file="prepositions.txt">Prepositions</a></li>
+        <li><a href="#" data-file="conjunctions.txt">Conjunctions</a></li>
+        <li><a href="#" data-file="interjections.txt">Interjections</a></li>
+      </ul>
+    </div>
   </nav>
 
-  <!-- Main content with flip cards -->
-  <div class="card-container">
-    <div class="card">
-      <div class="card-inner">
-        <div class="card-front">
-          <h3>Card 1</h3>
-          <p>Click to see more</p>
-        </div>
-        <div class="card-back">
-          <h3>Details</h3>
-          <p>This is the back of card 1</p>
-        </div>
-      </div>
-    </div>
-    <div class="card">
-      <div class="card-inner">
-        <div class="card-front">
-          <h3>Card 2</h3>
-          <p>Click to see more</p>
-        </div>
-        <div class="card-back">
-          <h3>Details</h3>
-          <p>This is the back of card 2</p>
-        </div>
-      </div>
-    </div>
-    <!-- Add more cards as needed -->
-  </div>
+  <!-- Empty container where the cards will be added -->
+  <div class="card-container" id="card-container"></div>
+
   <script src="js/app.js"></script>
 
 </body>

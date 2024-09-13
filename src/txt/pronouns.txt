@@ -1,0 +1,59 @@
+I,yo
+you,tú/usted
+he,él
+she,ella
+it,eso
+we,nosotros
+they,ellos
+me,me
+him,lo/le
+her,la/le
+us,nos
+them,los/les
+my,mi
+your,tu/su
+his,su
+her,su
+its,su
+our,nuestro
+their,su
+mine,mío
+yours,tuyo
+hers,suyo
+its,suyo
+ours,nuestro
+theirs,suyo
+who,quién
+whom,a quién
+whose,cuya
+which,cuál
+that,ese
+this,esto
+these,estos
+those,esos
+each,cada
+every,cada
+one,uno
+another,otro
+some,algunos
+any,cualquier
+none,ninguno
+both,ambos
+either,uno u otro
+neither,ninguno de los dos
+everybody,todos
+someone,alguien
+anyone,alguien
+everyone,todos
+no one,ninguno
+nothing,nada
+anything,algo
+everything,todo
+myself,yo mismo
+yourself,te mismo
+himself,él mismo
+herself,ella misma
+itself,eso mismo
+ourselves,nosotros mismos
+yourselves,vosotros mismos
+themselves,ellos mismos

@@ -1,0 +1,3 @@
+the,el/la
+a,un/una
+an,un/una

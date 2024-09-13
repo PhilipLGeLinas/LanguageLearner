@@ -1,0 +1,37 @@
+quickly,rápidamente
+slowly,despacio
+carefully,cuidadosamente
+easily,fácilmente
+loudly,ruidosamente
+silently,silenciosamente
+happily,felizmente
+sadly,tristemente
+often,a menudo
+rarely,rara vez
+sometimes,a veces
+never,nunca
+always,siempre
+just,justo
+only,sólo
+nearly,casi
+mostly,principalmente
+simply,simplemente
+particularly,particularmente
+generally,generalmente
+seriously,seriamente
+clearly,claramente
+evidently, evidentemente
+recently,recentemente
+eventually,eventualmente
+eventually,eventualmente
+already,ya
+still,aún
+probably,probablemente
+definitely,definitivamente
+mostly,principalmente
+actually,en realidad
+perhaps,quizás
+frequently,frecuentemente
+probably,probablemente
+hopefully,esperanzadamente
+perfectly,perfectamente
