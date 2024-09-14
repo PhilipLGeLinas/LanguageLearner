@@ -13,7 +13,7 @@ school,がっこう
 state,しゅう
 family,かぞく
 student,がくせい
-group,ぐるうぷ
+group,グループ
 country,くに
 problem,もんだい
 hand,て
@@ -34,7 +34,7 @@ home,いえ
 water,みず
 room,へや
 mother,はは
-area,えりあ
+area,エリア
 money,おかね
 story,はなし
 fact,じじつ
