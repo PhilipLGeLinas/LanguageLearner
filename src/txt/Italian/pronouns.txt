@@ -1,0 +1,59 @@
+you,tu
+that,quello
+it,esso
+your,tuo
+this,questo
+I,io
+they,loro
+some,alcuni
+there,lì
+what,cosa
+which,quale
+their,loro
+all,tutto
+we,noi
+these,questi
+who,chi
+them,loro
+its,suo
+our,nostro
+my,mio
+where,dove
+those,quelli
+he,lui
+us,noi
+his,suo
+another,un altro
+same,stesso
+her,sua
+something,qualcosa
+me,me
+she,lei
+lot,molto
+certain,certo
+yourself,te stesso
+someone,qualcuno
+everything,tutto
+nothing,niente
+itself,esso stesso
+everyone,tutti
+themselves,loro stessi
+anyone,chiunque
+anything,qualsiasi cosa
+him,lui
+self,sé stesso
+whatever,qualunque cosa
+whose,di chi
+myself,me stesso
+everybody,tutti
+ourselves,noi stessi
+nobody,nessuno
+himself,lui stesso
+none,nessuno
+somebody,qualcuno
+yours,tuo
+herself,lei stessa
+mine,mio
+whoever,chiunque
+anybody,chiunque
+nowhere,nessun luogo

@@ -1,0 +1,99 @@
+up,acima
+so,tão
+out,fora
+just,apenas
+now,agora
+how,como
+then,então
+more,mais
+also,também
+here,aqui
+well,bem
+only,só
+very,muito
+even,mesmo
+back,atrás
+there,lá
+down,abaixo
+still,ainda
+in,em
+as,como
+to,para
+when,quando
+never,nunca
+really,realmente
+most,a maioria
+on,em
+why,por que
+about,sobre
+over,sobre
+again,de novo
+right,direito
+off,desligado
+always,sempre
+today,hoje
+all,tudo
+far,longe
+long,longo
+away,longe
+yet,ainda
+often,frequentemente
+ever,sempre
+however,no entanto
+almost,quase
+later,mais tarde
+much,muito
+once,uma vez
+least,menos
+ago,atrás
+together,juntos
+around,ao redor
+already,já
+enough,suficiente
+both,ambos
+maybe,talvez
+actually,na verdade
+probably,provavelmente
+home,casa
+of course,claro
+perhaps,talvez
+little,pouco
+else,outro
+sometimes,às vezes
+finally,finalmente
+less,menos
+better,melhor
+early,cedo
+especially,especialmente
+either,qualquer
+quite,bastante
+simply,simplesmente
+nearly,quase
+soon,logo
+certainly,certamente
+quickly,rapidamente
+not,não
+recently,recentemente
+before,antes
+usually,geralmente
+thus,assim
+exactly,exatamente
+hard,difícil
+particularly,particularmente
+pretty,bastante
+forward,à frente
+ok,ok
+clearly,claramente
+indeed,de fato
+rather,bastante
+that,isso
+tonight,esta noite
+close,perto
+suddenly,de repente
+best,melhor
+instead,em vez de
+ahead,à frente
+fast,rápido
+alone,sozinho
+eventually,eventualmente
+directly,diretamente

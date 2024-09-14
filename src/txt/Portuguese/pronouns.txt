@@ -1,0 +1,59 @@
+you,você
+that,isso
+it,isso
+your,seu
+this,isto
+I,eu
+they,eles
+some,alguns
+there,lá
+what,o quê
+which,qual
+their,seu
+all,todo
+we,nós
+these,estes
+who,quem
+them,eles
+its,seu
+our,nosso
+my,meu
+where,onde
+those,esses
+he,ele
+us,nós
+his,seu
+another,outro
+same,mesmo
+her,dela
+something,algo
+me,me
+she,ela
+lot,muito
+certain,certo
+yourself,você mesmo
+someone,alguém
+everything,tudo
+nothing,nada
+itself,ele mesmo
+everyone,todos
+themselves,eles mesmos
+anyone,qualquer um
+anything,qualquer coisa
+him,ele
+self,si mesmo
+whatever,o que quer que seja
+whose,cujo
+myself,eu mesmo
+everybody,todos
+ourselves,nós mesmos
+nobody,ninguém
+himself,ele mesmo
+none,nenhum
+somebody,alguém
+yours,seu
+herself,ela mesma
+mine,meu
+whoever,quem quer que seja
+anybody,qualquer pessoa
+nowhere,nenhum lugar
